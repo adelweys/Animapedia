@@ -4,7 +4,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Poppins', sans-serif;
+ 
 }
 header
 {
@@ -18,8 +18,32 @@ header
   justify-content: space-between;
   align-items: center;
   background-color: #5F8D4E; 
-  opacity: 90%;       
+  opacity: 70%;
+  font-size: 1.5em;
+  padding-right:10% ;
 
+}
+
+.navigation{
+    display: flex;
+    height: 100%;
+}
+.navigation li{
+    list-style: none;
+}
+.navigation li a {
+    position: relative;
+    color: white;
+    text-decoration: none;
+    margin-left: 30px;
+    padding: 16px 30px;
+    text-transform: uppercase;
+     
+}
+.navigation li a:hover{
+    letter-spacing: 3px;
+    transition: 0.5s;
+    background-color: black;
 }
 header .logo
 {
@@ -28,25 +52,6 @@ header .logo
   cursor: pointer;
   width: 35px;
   opacity: 100%;
-}
-.toggle
-{
-  position: relative;
-  width: 60px;
-  height: 60px;
-  background: url(https://i.ibb.co/HrfVRcx/menu.png);
-  background-repeat: no-repeat;
-  background-size: 30px;
-  background-position: center;
-  cursor: pointer;
-}
-.toggle.active
-{
-  background: url(https://i.ibb.co/rt3HybH/close.png);
-  background-repeat: no-repeat;
-  background-size: 25px;
-  background-position: center;
-  cursor: pointer;
 }
 .showcase
 {
@@ -58,7 +63,7 @@ header .logo
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: #111;
+  
   transition: 0.5s;
   z-index: 2;
 }
@@ -76,16 +81,6 @@ header .logo
   height: 100%;
   object-fit: cover;
   opacity: 0.8;
-}
-.overlay
-{
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
- 
-  mix-blend-mode: overlay;
 }
 .text
 {
@@ -148,12 +143,9 @@ header .logo
     margin-top: 10px;
     background-color: black;
     border-radius: 50px 50px 50px 50px;
-    opacity: 70%;
+    opacity: 80%;
     width: 100%;
     align-items: center;
-    border-left: 3px solid white;
-    border-top: 3px solid white;
-    border-bottom: 3px solid white;
     
 }
 
@@ -167,80 +159,18 @@ header .logo
     font-weight: 100;
     margin-top:10px;
     border-radius: 0px 50px 50px 0px;
-    opacity: 90%;
+   
     width: 10%;
     text-align: center;
-    padding-top: 5px;
+    padding-top: 3px;
     border: white solid;
     border-right: 3px solid white;
     border-top: 3px solid white;
     border-bottom: 3px solid white;
 }
-.menu .dropdown-btn {
-    padding: 6px 8px 6px 16px;
-    text-decoration: none;
-    font-size: 20px;
-    color: #818181;
-    display: block;
-    border: none;
-    background: none;
-    width: 100%;
-    text-align: left;
-    cursor: pointer;
-    outline: none;
-  }
 
-.dropdown-container {
-    display: none;
-    background-color: #262626;
-    padding-left: 8px;
-  }
-  
-  /* Optional: Style the caret down icon */
-.fa-caret-down {
-    float: right;
-    padding-right: 8px;
-  }
-.actived {
-    background-color: green;
-    color: white;
-  }
-.social
-{
-  position: absolute;
-  z-index: 10;
-  bottom: 20px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.social li
-{
-  list-style: none;
-}
-.social li a
-{
-  display: inline-block;
-  margin-right: 20px;
-  filter: invert(1);
-  transform: scale(0.5);
-  transition: 0.5s;
-}
-.social li a:hover
-{
-  transform: scale(0.5) translateY(-15px);
-}
-.menu
-{
-  position: absolute;
-  top: 0;
-  right: 0;
-  width: 300px;
-  height: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
+
+
 .nav{
     position: absolute;
     top: 0;
@@ -267,33 +197,18 @@ header .logo
     padding: 16px 30px;
     color: white;
     text-decoration: none;
+    font-size: 1.5em;
 }
 
 .nav ul li a:hover{
     
-    transition: .3s;
-    background-color: #111;
+    transition: .5s;
+    background-color: grey;
+    letter-spacing: 3px;
 }
 
 
-.menu ul
-{
-  position: relative;
-}
-.menu ul li
-{
-  list-style: none;
-}
-.menu ul li a
-{
-  text-decoration: none;
-  font-size: 24px;
-  color: #111;
-}
-.menu ul li a:hover
-{
-  color: #03a9f4; 
-}
+
 
 @media (max-width: 991px)
 {
