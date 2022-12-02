@@ -37,11 +37,11 @@
     <section class="showcase">
         <header>
             <img src="./images/WhatsApp Image 2022-11-14 at 10.00.03.jpg" class="logo">
-            <div class="nav">
-                <ul>
+           
+                <ul class="navigation">
                   <li><a href="index.php">Home</a></li>
                 </ul>
-            </div>
+            
         </header>
         <video src="./images/Video Landing Page AnimaPedia - Converted with FlexClip.mp4" muted loop autoplay>
 
@@ -64,3 +64,4 @@
 
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>   
+
