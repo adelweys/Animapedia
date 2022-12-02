@@ -9,7 +9,7 @@ require 'vendor/autoload.php';
 \EasyRdf\RdfNamespace::set('hewan', 'https://example.org/schema/hewan');
 \EasyRdf\RdfNamespace::setDefault('og');
 
-$sparql_jena = new \EasyRdf\Sparql\Client('http://localhost:3030/hewan2/sparql');
+$sparql_jena = new \EasyRdf\Sparql\Client('http://localhost:3030/hewan/sparql');
 
 $sparql_query = '
 SELECT ?m ?nama ?image ?kelas ?deskripsi ?diet ?habitat ?id WHERE {
