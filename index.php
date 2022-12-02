@@ -50,8 +50,8 @@
         <div class="text">
             <h2>JELEJAHI DUNIA HEWAN SECARA ONLINE</h2>
             <form class="search" method="POST" role="search" action="hasilcari.php">
-                <input class="input" type="address" name="judul" class="searchText" placeholder="Search....." autocomplete="on" required>
-               <button type="submit" class="button"><ion-icon name="search-outline"></ion-icon></button>
+                <input class="input" type="address" name="judul" class="searchText" placeholder="Search....." autocomplete="on" required style="border: 5px solid white ; border-radius: 50px 0px 0px 50px; width: 90%;">
+               <button type="submit" class="button" style="border-radius: 0px 50px 50px 0px; border: 4px solid white; opacity:80%;"><ion-icon name="search-outline"></ion-icon></button>
             </form>
         </div>
 
@@ -64,4 +64,3 @@
 
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>   
-
