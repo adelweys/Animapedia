@@ -108,7 +108,7 @@
         </hewan:animal>
 
         
-        <hewan:animal rdf:about="https://dbpedia.org/page/Starling">
+        <hewan:animal rdf:about="https://dbpedia.org/page/Bali_myna">
         <hewan:id>11</hewan:id>
         <hewan:image>https://p4.wallpaperbetter.com/wallpaper/843/127/811/birds-bali-starling-wallpaper-preview.jpg</hewan:image>
         <rdfs:nama>Jalak Bali</rdfs:nama>
@@ -118,7 +118,7 @@
         <hewan:habitat>Bali (Indonesia)</hewan:habitat>
         </hewan:animal>
 
-        <hewan:animal rdf:about="https://dbpedia.org/page/Starling">
+        <hewan:animal rdf:about="https://dbpedia.org/page/Cockatoo">
         <hewan:id>12</hewan:id>
         <hewan:image>https://p4.wallpaperbetter.com/wallpaper/59/128/847/body-of-water-in-forest-during-daytime-wallpaper-preview.jpg</hewan:image>
         <rdfs:nama>Kakatua</rdfs:nama>
