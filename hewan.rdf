@@ -178,7 +178,7 @@
         <hewan:habitat>Amerika Tengah dan Kepulauan Karibia</hewan:habitat>
         </hewan:animal>
         
-        <hewan:animal rdf:about="https://dbpedia.org/page/Iguana">
+        <hewan:animal rdf:about="https://dbpedia.org/page/Tiger">
         <hewan:id>21</hewan:id>
         <hewan:image>https://e7.pngegg.com/pngimages/876/819/png-clipart-tiger-tiger.png</hewan:image>
         <rdfs:nama>Harimau</rdfs:nama>
