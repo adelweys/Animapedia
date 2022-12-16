@@ -9,7 +9,7 @@
 
         <hewan:animal rdf:about="http://https://dbpedia.org/page/Cheetah">
         <hewan:id>1</hewan:id>
-        <hewan:image>https://png.pngtree.com/png-vector/20210415/ourmid/pngtree-carnivore-endangered-species-cheetah-sweet-png-image_3220573.png</hewan:image>
+        <hewan:image>https://cdn.britannica.com/98/152298-050-8E45510A/Cheetah.jpg</hewan:image>
         <rdfs:nama>Cheetah</rdfs:nama>
         <hewan:kelas>Mamalia</hewan:kelas>
         <hewan:deskripsi>Cheetah adalah hewan jenis kucing besar yang tersebar di Afrika dan Iran tengah. Cheetah adalah hewan darat tercepat, dengan perkiraan kemampuan berlarinya sekitar 80 sampai dengan 120 km/jam.</hewan:deskripsi>
@@ -19,7 +19,7 @@
 
         <hewan:animal rdf:about="https://dbpedia.org/page/Osphronemus">
         <hewan:id>2</hewan:id>
-        <hewan:image>https://png.pngtree.com/png-vector/20220513/ourmid/pngtree-gourame-fish-vector-png-image_4605749.png</hewan:image>
+        <hewan:image>https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Osphronemus_goramy_2008_G1.jpg/1200px-Osphronemus_goramy_2008_G1.jpg</hewan:image>
         <rdfs:nama>Gurami</rdfs:nama>
         <hewan:kelas>Ikan</hewan:kelas>
         <hewan:deskripsi>Ikan Gurami adalah sejenis ikan air tawar yang populer sebagai ikan konsumsi di Asia Tenggara dan Asia Selatan. Di samping itu, gurami juga sering dipelihara dalam akuarium. Ikan gurami merupakan ikan yang lebar dan pipih, panjang tubuh total mencapai 1000mm</hewan:deskripsi>
@@ -29,7 +29,7 @@
 
         <hewan:animal rdf:about="https://dbpedia.org/page/American_bison">
         <hewan:id>3</hewan:id>
-        <hewan:image>https://png.pngtree.com/png-clipart/20210204/ourmid/pngtree-sepia-bison-clip-art-png-image_2872640.png</hewan:image>
+        <hewan:image>https://upload.wikimedia.org/wikipedia/commons/8/8d/American_bison_k5680-1.jpg</hewan:image>
         <rdfs:nama>Bison</rdfs:nama>
         <hewan:kelas>Mamalia</hewan:kelas>
         <hewan:deskripsi>Bison merupakan keluarga sapi mamalia yang biasanya dikenal sebagai kerbau amerika. Bison bisa hidup di Amerika, Afrika, dan bahkan Asia. Di Asia dan Amerika, bison hidup di padang rumput. Bison memiliki bobot antara 400-1000 kg.</hewan:deskripsi>
@@ -39,7 +39,7 @@
 
         <hewan:animal rdf:about="https://dbpedia.org/page/Cattle">
         <hewan:id>5</hewan:id>
-        <hewan:image>https://w7.pngwing.com/pngs/268/367/png-transparent-a-cow-dairy-cow-color-dairy-cattle-thumbnail.png</hewan:image>
+        <hewan:image>https://upload.wikimedia.org/wikipedia/commons/0/0c/Cow_female_black_white.jpg</hewan:image>
         <rdfs:nama>Sapi</rdfs:nama>
         <hewan:kelas>Mamalia</hewan:kelas>
         <hewan:deskripsi>Sapi (atau lembu) adalah hewan ternak anggota subfamili Bovidae dan yang paling banyak tersebar luas dari genus(marga) Bos.Sapi diternakkan untuk dimanfaatkan susu dan dagingnya sebagai panganan manusia. Hasil sampingnya seperti kulit, tanduk, kotorannya juga dimanfaatkan untuk keperluan manusia. Persebaran sapi ini hampir ada di seluruh dunia.</hewan:deskripsi>
@@ -49,7 +49,7 @@
 
         <hewan:animal rdf:about="https://dbpedia.org/page/Cat">
         <hewan:id>6</hewan:id>
-        <hewan:image>https://w7.pngwing.com/pngs/664/275/png-transparent-himalayan-cat-thai-cat-siamese-cat-balinese-cat-birman-ragdoll-cat-mammal-animals-cat-like-mammal-thumbnail.png</hewan:image>
+        <hewan:image>https://i.pinimg.com/736x/8d/fc/fc/8dfcfc60be6a42bbd9c0a298c766cf3a.jpg</hewan:image>
         <rdfs:nama>Kucing</rdfs:nama>
         <hewan:kelas>Mamalia</hewan:kelas>
         <hewan:deskripsi>Kucing adalah spesies domestik dan karnivora mamalia kecil. Hanya Kucing, spesies yang didomestikasi dalam keluarga Felidae dan terkadang disebut sebagai kucing domestik untuk membedakannya dengan kucing liar. Kucing ini termasuk hewan peliharaan favorit manusia.</hewan:deskripsi>
@@ -59,7 +59,7 @@
 
         <hewan:animal rdf:about="https://dbpedia.org/page/Sheep">
         <hewan:id>7</hewan:id>
-        <hewan:image>https://w7.pngwing.com/pngs/208/719/png-transparent-sheep-goat-sheep-image-file-formats-animals-cow-goat-family-thumbnail.png</hewan:image>
+        <hewan:image>https://www.treehugger.com/thmb/Ej4PTZakcaZJ-Cfg_JF3wxn-W9Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/goatsandsheep-31561f526a0347e3a9c722bf678ae646.jpg</hewan:image>
         <rdfs:nama>Domba</rdfs:nama>
         <hewan:kelas>Mamalia</hewan:kelas>
         <hewan:deskripsi>Domba atau biri-biri adalah salah satu hewan ternak berkaki empat dengan rambut tebal. Domba adalah salah satu jenis hewan pertama yang dijinakkan untuk keperluan agrikultural dan dipelihara untuk dimanfaatkan rambut(wol), daging, dan susunya. Domba tercantum dalam mitologi, tradisi agama-agama Abrahamik. Dalam ritual keagamaan kuno dan modern, domba digunakan sebagai hewan persembahan.</hewan:deskripsi>
@@ -69,7 +69,7 @@
 
         <hewan:animal rdf:about="https://dbpedia.org/page/Orangutan">
         <hewan:id>8</hewan:id>
-        <hewan:image>https://w7.pngwing.com/pngs/456/818/png-transparent-orangutan-common-chimpanzee-orangutan-monkey-fur-snout-orangutan-mammal-animals-photography-thumbnail.png</hewan:image>
+        <hewan:image>https://www.sumatra-ecotravel.com/wp-content/uploads/2018/12/Male-orangutan.jpg</hewan:image>
         <rdfs:nama>Orangutan</rdfs:nama>
         <hewan:kelas>Mamalia</hewan:kelas>
         <hewan:deskripsi>Orangutan merupakan jenis kera besar yang tersebar di hutan hujan Indonesia dan Malaysia, tepatnya di Pulau Kalimantan dan Pulau Sumatra. Diklasifikasikan dalam genus Pongo, orang utan awalnya dianggap satu spesies. Pada tahun 1996, mereka dibagi menjadi dua spesies, yaitu orang utan Kalimantan(P. pygmaeus) dan orang utan Sumatra(P. abelii). Orang utan adalah kera besar yang menghabiskan sebagian besar waktu mereka di pohon.</hewan:deskripsi>
@@ -79,7 +79,7 @@
 
         <hewan:animal rdf:about="https://dbpedia.org/page/Goldfish">
         <hewan:id>9</hewan:id>
-        <hewan:image>https://w7.pngwing.com/pngs/955/614/png-transparent-goldfish-graphy-goldfish-miscellaneous-photography-orange.png</hewan:image>
+        <hewan:image>https://upload.wikimedia.org/wikipedia/commons/a/ae/Katri.jpg</hewan:image>
         <rdfs:nama>Ikan mas</rdfs:nama>
         <hewan:kelas>Ikan</hewan:kelas>
         <hewan:deskripsi>Ikan mas hias merupakan ikan air tawar, dan salah satu ikan yang pertama kali berhasil didomestikasi, dipelihara, dan dibudidayakan manusia. Pemeliharaan ikan mas dimulai di Tiongkok Kuno sejak ribuan tahun lalu. Beberapa spesies ikan mas (secara umum dikenal sebagai "ikan mas Asia") mulai didomestikasi dipelihara sebagai sumber pangan melalui akuakultur. Secara alami di alam, ikan-ikan ini berwarna kelabu atau perak, akan tetapi beberapa jenis memiliki kecenderungan untuk mengalami mutasi warna dengan menghasilkan warna merah, jingga, atau kuning.</hewan:deskripsi>
@@ -89,7 +89,7 @@
 
         <hewan:animal rdf:about="https://dbpedia.org/page/Hammerhead_shark">
         <hewan:id>10</hewan:id>
-        <hewan:image>https://w7.pngwing.com/pngs/599/699/png-transparent-hammerhead-shark-requiem-sharks-youtube-gamer-shark-thumbnail.png</hewan:image>
+        <hewan:image>https://cdn.britannica.com/36/95236-050-1680EE50/structures-hammerheads-Sharks-electroreceptors-skin-discharges-role.jpg</hewan:image>
         <rdfs:nama>Hiu Martil</rdfs:nama>
         <hewan:kelas>Ikan</hewan:kelas>
         <hewan:deskripsi>Hiu martil dari genus Sphyrna adalah anggota dari famili Sphyrnidae. Sembilan spesies hiu martil yang sudah diketahui memiliki panjang antara 2 hingga 6 meter. dan semua spesies memiliki proyeksi kepala menyerupai martil gepeng bila dilihat dari salah satu sisi. Mata dan lubang hidung ada di ujung kepala. Mereka adalah predator agresif yang memakan ikan, ikan pari, cumi-cumi, dan udang-udangan. Mereka ditemukan di perairan hangat sepanjang garis pantai, dan paparan benua.</hewan:deskripsi>
@@ -99,7 +99,7 @@
 
         <hewan:animal rdf:about="https://dbpedia.org/page/Horse">
         <hewan:id>13</hewan:id>
-        <hewan:image>https://toppng.com/uploads/preview/transparent-horse-11546841369mb9eswqrht.png</hewan:image>
+        <hewan:image>https://nationaltoday.com/wp-content/uploads/2020/12/National-Horse-Day-1.jpg</hewan:image>
         <rdfs:nama>Kuda</rdfs:nama>
         <hewan:kelas>Mamalia</hewan:kelas>
         <hewan:deskripsi>Kuda adalah salah satu dari sepuluh spesies modern mamalia dari genus Equus. Hewan ini telah lama merupakan salah satu hewan peliharaan yang penting secara ekonomis dan historis, dan telah memegang peranan penting dalam pengangkutan orang dan barang selama ribuan tahun. Kuda dapat ditunggangi oleh manusia dengan menggunakan sadel dan dapat pula digunakan untuk menarik sesuatu, seperti kendaraan beroda, atau bajak.</hewan:deskripsi>
@@ -109,7 +109,7 @@
 
         <hewan:animal rdf:about="https://dbpedia.org/page/Common_hill_myna">
         <hewan:id>14</hewan:id>
-        <hewan:image>https://w7.pngwing.com/pngs/251/429/png-transparent-common-myna-galliformes-beak-fauna-ceramic-product-galliformes-fauna-bird.png</hewan:image>
+        <hewan:image>https://foresteract.com/wp-content/uploads/2021/04/Fakta-Menarik-Burung-Beo.jpg</hewan:image>
         <rdfs:nama>Beo</rdfs:nama>
         <hewan:kelas>Unggas</hewan:kelas>
         <hewan:deskripsi>Beo adalah burung piaraan yang sangat digemari orang karena kepandaiannya berbicara. Di alam, jenis burung ini hidup di hutan-hutan basah, terutama di bukit-bukit dataran rendah sampai daerah ketinggian 1000-2000 m di atas permukaan laut. Beo menyukai buah-buahan yang berdaging tebal dan tidak keras. Wilayah persebaran alaminya adalah mulai dari Sri Lanka, India, Himalaya, ke timur hingga Filipina, jawa hingga kepulauan sunda kecil. Burung ini dapat ditemukan di dataran rendah hingga dataran tinggi lebih dari 2000m. Karena kemampuannya menirukan bahasa manusia, burung ini menjadi hewan peliharaan populer.</hewan:deskripsi>
@@ -119,7 +119,7 @@
 
         <hewan:animal rdf:about="https://dbpedia.org/page/Tapirus_californicus">
         <hewan:id>15</hewan:id>
-        <hewan:image>https://w7.pngwing.com/pngs/316/419/png-transparent-malayan-tapir-south-american-tapir-animal-mammal-cut-miscellaneous-fauna-wildlife.png</hewan:image>
+        <hewan:image>https://cdn.betahita.id/6/0/8/2/6082.jpg</hewan:image>
         <rdfs:nama>Tapir California</rdfs:nama>
         <hewan:kelas>Mamalia</hewan:kelas>
         <hewan:deskripsi>Tapir adalah binatang herbivora yang memakan dedaunan muda di sepanjang hutan atau pinggiran sungai. Tapir memiliki bentuk tubuh seperti babi, telinga yang mirip badak dan moncongnya yang panjang mirip trenggiling, sementara lenguhannya lebih mirip suara burung daripada binatang mamalia. Aktivitasnya lebih banyak pada malam hari (nokturnal).</hewan:deskripsi>
@@ -130,7 +130,7 @@
 
         <hewan:animal rdf:about="https://dbpedia.org/page/Asian_palm_civet">
         <hewan:id>16</hewan:id>
-        <hewan:image>https://w7.pngwing.com/pngs/295/663/png-transparent-sketch-of-musk-cat-civet-cat-hand-drawing-kopi-luwak.png</hewan:image>
+        <hewan:image>https://asset.kompas.com/crops/Zo3GWpJMQjcSxmWXmp9VqEEvXqI=/0x0:1000x667/750x500/data/photo/2019/06/17/964778230.jpg</hewan:image>
         <rdfs:nama>Luwak</rdfs:nama>
         <hewan:kelas>Mamalia</hewan:kelas>
         <hewan:deskripsi>Musang luak adalah hewan menyusui (mamalia) yang termasuk suku musang dan garangan (Viverridae). Musang bertubuh sedang, dengan panjang total sekitar 90 cm (termasuk ekor, sekitar 40 cm atau kurang). Abu-abu kecokelatan dengan ekor hitam-cokelat mulus. Sisi atas tubuh abu-abu kecokelatan, dengan variasi dari warna tengguli (cokelat merah tua) sampai kehijauan. Jalur di punggung lebih gelap, biasanya berupa tiga atau lima garis gelap yang tidak begitu jelas dan terputus-putus, atau membentuk deretan bintik-bintik besar. Sisi samping dan bagian perut lebih pucat. Terdapat beberapa bintik samar di sebelah tubuhnya.</hewan:deskripsi>
@@ -140,7 +140,7 @@
 
         <hewan:animal rdf:about="https://dbpedia.org/page/Common_treeshrew">
         <hewan:id>17</hewan:id>
-        <hewan:image>https://toppng.com//public/uploads/preview/squirrel-png-download-png-image-with-transparent-background-everybody-would-love-to-be-a-toucan-art-print-mini-11563164264hyffwzja3h.png</hewan:image>
+        <hewan:image>https://asset-a.grid.id/crop/0x0:0x0/x/photo/2021/11/02/fakta-tupaijpg-20211102021153.jpg</hewan:image>
         <rdfs:nama>Tupai</rdfs:nama>
         <hewan:kelas>Mamalia</hewan:kelas>
         <hewan:deskripsi>Tupai akar adalah sejenis mamalia kecil anggota suku tupai. Hewan ini menyebar di wilayah Indonesia bagian barat (Sumatra, Jawa, dan Kalimantan), Semenanjung Malaya, dan Palawan, serta pulau-pulau kecil di sekitarnya.</hewan:deskripsi>
@@ -150,7 +150,7 @@
 
         <hewan:animal rdf:about="https://dbpedia.org/page/Asian_water_monitor">
         <hewan:id>18</hewan:id>
-        <hewan:image>https://www.clipartmax.com/png/middle/270-2705401_monitor-lizard-clipart-lizard-tail-lizard-silhouette.png</hewan:image>
+        <hewan:image>https://asset.kompas.com/crops/FCsUB2mI2zwhHyIpGgPTgKEXKGA=/93x104:815x585/750x500/data/photo/2020/07/27/5f1e8903ba9f8.jpg</hewan:image>
         <rdfs:nama>Biawak air</rdfs:nama>
         <hewan:kelas>Reptil</hewan:kelas>
         <hewan:deskripsi>Biawak air atau biawak air asia (Varanus salvator) adalah jenis biawak yang tersebar luas di Asia Selatan dan Asia Tenggara. Biawak ini merupakan jenis biawak yang paling sering dijumpai di berbagai wilayah di Indonesia dan sering dekat dengan pemukiman manusia. Biawak ini berukuran panjang sekitar 1.5 meter hingga 2 meter dengan berat mencapai 19 kg. Spesimen-spesimen yang sering ditemui rata-rata memilikipanjang tidak lebih dari 1.5 meter dan berat hanya sekitar 4 sampai 6 kg. Akan tetapi, pernah ditemukan spesies yang panjangnya bahkan mencapai hampir 3 meter dan berat lebih dari 20 kg. Bentuk kepalanya meruncing. Kulitnya kasar dan berbintik-bintik kecil agak menonjol. Warna tubuhnya hitam atau indigo dengan bercak bercak tutul dan bulatan berwarna kuning pucat dari bagian atas kepala, punggung, hingga pangkal ekor. Bagian perut dan leher berwarna lebih pucatdengan bercak-bercak agak gelap. Ekor berwarna dasar sama dengan tubuh dan dihiasi belang-belang samar berwarna kuning pucat yang berbaur (blending) dengan warna dasar. Untuk biawak muda, biasanya berwarna dasar cokelat gelap dengan bercak-bercak pucat seperti induknya</hewan:deskripsi>
@@ -160,7 +160,7 @@
 
         <hewan:animal rdf:about="https://dbpedia.org/page/Guelta_d'Archei">
         <hewan:id>19</hewan:id>
-        <hewan:image>https://www.pngfind.com/pngs/m/45-450820_alligator-png-file-nile-crocodile-transparent-png.png</hewan:image>
+        <hewan:image>https://akcdn.detik.net.id/visual/2019/11/19/0fd971d1-3e3a-4e71-962d-eed2e3a9c345_169.jpeg?w=650</hewan:image>
         <rdfs:nama>Buaya</rdfs:nama>
         <hewan:kelas>Reptil</hewan:kelas>
         <hewan:deskripsi>Buaya Nil adalah salah satu dari empat spesies buaya yang dapat ditemui di Afrika dan spesies buaya terbesar kedua. Buaya nil dapat ditemui di kebanyakan Afrika dan pulau Madagaskar. Buaya nil dapat, dan kadang-kadang akan dengan mudah menangkap dan menelan manusia. Makanan utama buaya nil adalah wildebeest yaitu sejenis banteng yang merupakan endemik dari daerah tersebut.</hewan:deskripsi>
@@ -170,7 +170,7 @@
 
         <hewan:animal rdf:about="https://dbpedia.org/page/Iguana">
         <hewan:id>20</hewan:id>
-        <hewan:image>https://www.pngfind.com/pngs/m/151-1510779_green-iguana-clipart-transparent-background-iguano-verde-png.png</hewan:image>
+        <hewan:image>https://asset.kompas.com/crops/pjPWaAaVCX3f0_IfuZP0xNKpkG4=/0x0:1280x853/750x500/data/photo/2022/09/05/63158878317fa.jpg</hewan:image>
         <rdfs:nama>Iguana</rdfs:nama>
         <hewan:kelas>Reptil</hewan:kelas>
         <hewan:deskripsi>Iguana Hijau adalah reptil yang ditemukan di hutan hujan Meksiko Utara, Amerika Tengah, Kepulauan Karibia, dan Brasil Selatan, tepatnya di daerah tropis dan sub-tropis. Iguana hijau lebih suka hidup di daerah yang lembap dan hangat. Suhu rata-rata lingkungan yang disukai iguana hijau adalah 30C -35C.</hewan:deskripsi>
@@ -180,7 +180,7 @@
         
         <hewan:animal rdf:about="https://dbpedia.org/page/Tiger">
         <hewan:id>21</hewan:id>
-        <hewan:image>https://e7.pngegg.com/pngimages/876/819/png-clipart-tiger-tiger.png</hewan:image>
+        <hewan:image>http://c.files.bbci.co.uk/1268F/production/_105870457_harimau01.jpg</hewan:image>
         <rdfs:nama>Harimau</rdfs:nama>
         <hewan:kelas>Mamalia</hewan:kelas>
         <hewan:deskripsi>Harimau adalah spesies kucing terbesar yang masih hidup dari genus Panthera. Harimau memiliki ciri loreng yang khas pada bulunya, berupa garis-garis vertikal gelap pada bulu oranye, dengan bulu bagian bawah berwarna putih. Harimau adalah pemangsa puncak, mereka terutama memangsa ungulata seperti rusa dan babi celeng. Harimau adalah hewan teritorial dan umumnya merupakan pemangsa soliter yang penyendiri, tetapi tetap memiliki sisi sosial, mereka tetap tinggal di area-area yang berdekatan, untuk mendukung kebutuhan makanan dan membesarkan keturunannya.</hewan:diet>
